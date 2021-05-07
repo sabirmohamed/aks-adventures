@@ -13,3 +13,7 @@ https://github.com/sabirmohamed/MCW-Cloud-native-applications/blob/master/Hands-
 ## Kubernetes The Hard Way on Azure
 https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure
 
+## Deploying a multi-container application to Azure Kubernetes Services
+https://azuredevopslabs.com/labs/vstsextend/kubernetes/
+
+
