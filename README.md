@@ -16,4 +16,6 @@ https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure
 ## Deploying a multi-container application to Azure Kubernetes Services
 https://azuredevopslabs.com/labs/vstsextend/kubernetes/
 
+## Rock, Paper, Scissors, Lizard, Spock - Sample Application
+https://github.com/Microsoft/RockPaperScissorsLizardSpock
 
