@@ -19,3 +19,5 @@ https://azuredevopslabs.com/labs/vstsextend/kubernetes/
 ## Rock, Paper, Scissors, Lizard, Spock - Sample Application
 https://github.com/Microsoft/RockPaperScissorsLizardSpock
 
+## Stan's Robot Shop is a sample microservice application you can use as a sandbox to test and learn containerised application orchestration and monitoring techniques
+https://github.com/sabirmohamed/robot-shop
