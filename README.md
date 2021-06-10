@@ -32,4 +32,8 @@ https://github.com/sabirmohamed/robot-shop
 ## Instana Robot Shop 
 https://github.com/instana/robot-shop
 
+## podinfo
+#### Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops
+https://github.com/stefanprodan/podinfo
+
 
