@@ -32,6 +32,13 @@ https://github.com/sabirmohamed/robot-shop
 ## Instana Robot Shop 
 https://github.com/instana/robot-shop
 
+## Sock Shop
+#### Sock Shop microservices are designed to have minimal expectations, using DNS to find other services. This means that it is possible to insert load-balancers and service routers, as required or desired.
+
+There are pre-built configuration scripts for various platforms that aim to make running the whole application simple.
+
+Sock Shop can be used to illustrate microservices architectures, demonstrate platforms at talks and meetups, or as a training and education tool.
+https://microservices-demo.github.io/
 ## podinfo
 #### Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops
 https://github.com/stefanprodan/podinfo
