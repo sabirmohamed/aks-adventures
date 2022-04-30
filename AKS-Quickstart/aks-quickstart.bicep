@@ -1,5 +1,5 @@
 param location string = resourceGroup().location
-param clusterName string
+param clusterName string = akspunk
 
 param nodeCount int = 2
 param vmSize string = 'standard_d2s_v3'
