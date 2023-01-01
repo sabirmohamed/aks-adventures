@@ -46,3 +46,8 @@ https://github.com/stefanprodan/podinfo
 
 ## Azure Container Apps
 
+## Best Practices
+
+- [Baseline architecture for an Azure Kubernetes Service (AKS) cluster]((https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks))
+- [Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center]((https://github.com/mspnp/aks-baseline))
+- [The Azure Kubernetes Service Checklist](https://www.the-aks-checklist.com/)
